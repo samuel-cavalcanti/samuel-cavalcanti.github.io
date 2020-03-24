@@ -16,9 +16,6 @@
 <loc>http://localhost:4000/blog/tags/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contact/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/blog/categories/guides</loc>
 </url>
 <url>
@@ -29,9 +26,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/tags/jekyll</loc>
-</url>
-<url>
-<loc>http://localhost:4000/styleguide/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/bower_components/bootstrap/js/tests/</loc>
