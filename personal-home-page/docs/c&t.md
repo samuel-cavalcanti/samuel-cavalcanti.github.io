@@ -17,12 +17,11 @@ bom número de amostras. Já sabendo um pouco sobre visão computacional, fiz um
 
 
 ## Uma Extensão para o chrome
-Penso que o melhor termômetro para baixo autoestima é simplesmente observar o quando os outros confiam em você. O professor Agostinho Brito Jr é o meu **Santo de pouca fé**.
-Ele queria que o aluno dele fizesse um projeto simples, sintetizando tudo que aprendeu na disciplina de processamento digital de imagens, quando falei que ia
+O professor Agostinho Brito Jr queria que o aluno dele fizesse um projeto simples, sintetizando tudo que aprendeu na disciplina de processamento digital de imagens, quando falei que ia
 fazer um sistema capaz de detectar um negão do órgão sexual desnecessariamente grande, a resposta foi curta: - "Não, é impossível, você não vai conseguir". Apresentei no final da disciplina o [Teddy Bear Filter](https://github.com/samuel-cavalcanti/teddy_bear_filter). Uma rede neural convolucional treinada com dados
 do porn hub e fotos do google imagens que naquele conjunto de dados a rede obteve 96.9% de precisão para detectar conteúdo pornográfico, filtrando muitos homens e mulheres bonitas com corpos de tamanhos variados. Agostinho estava certo, fui muito além da disciplina para resolver o problema, mas o baixo autoestima sempre me acompanhava durante toda a minha graduação naquele semestre eu não lutei para fazer o projeto final e sim para mostrar a mim mesmo que eu era capaz. No final da disciplina Agostinho estava com tanta fé em mim que sugeriu que façamos um navegador baseado no chromium que filtrasse imagens indesejadas, observando que a maioria dos navegadores como o edge, google chrome e brave são basicamente plugins ou extensões acopladas no navegador chromium.
 Então foi criado mais uma extensão para chrome, onde o usuário importa um modelo de rede neural, diz o que quer filtrar, então todas as imagens que forem baixadas devem passar pelo sistema que diz se a imagem pode ou não ser exibida. Um vídeo da demonstração dele filtrando tubarões pode ser encontrado aqui: [Demonstração filtrando tubarão](https://vimeo.com/454629223), demonstração da extensão com o **Teddy Bear Filter** **_CONTEM CONTEÚDO PORNOGRÁFICO CUIDADO_**: [Demonstração filtrando conteúdo pornográfico](https://vimeo.com/454627349). Toda minha base sobre redes neurais artificiais veio do professor Adrião, quando paguei a
-disciplina dele já sabia usar Python e Keras para fazer modelos Deep learning, mas entender até o significado da palavra Deep Learning foi com  meu bom velhinho Adrião, ele sugeriu formas e ideias de como usar esses algoritmos que são basicamente presentes de Natal, no caso Natal, a capital do Rio Grande do Norte.
+disciplina dele já sabia usar Python e Keras para fazer modelos Deep learning, mas entender até o significado da palavra Deep Learning foi Adrião.
 
 
 [Self-learning in the inverse kinematics of robotic arm]:https://ieeexplore.ieee.org/document/8215342
