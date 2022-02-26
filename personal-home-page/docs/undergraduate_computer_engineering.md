@@ -24,9 +24,9 @@ sua dignidade e design patterns. Eu não contrataria nenhum cientista da computa
 
 
 ## Descrito um Processador de Uso Geral em FPGA
-No segundo trabalho de circuitos digitais descrevi um controlador para um robô simples para desviar de obstáculos em hardware
-[Orivaldo Robot](https://www.youtube.com/watch?v=G7RQ4foF_As&ab_channel=SamuelCavalcanti). No terceiro Trabalho descrevi um processador de uso geral com 7 instruções.
-Nada de atípico até aqui, a não ser o fato que Eu foi o único que realizou com sucesso totalmente os três trabalhos dessa disciplina, o segredo ?
+No primeiro trabalho de circuitos digitais descrevi um marca passo em VHDL, uma linguagem de descrição de hardware.
+No segundo trabalho descrevi um controlador para um robô simples para desviar de obstáculos que possui 2 sonars e embarquei em uma FPGA:
+[Orivaldo Robot](https://www.youtube.com/watch?v=G7RQ4foF_As&ab_channel=SamuelCavalcanti). No terceiro Trabalho descrevi um processador de uso geral com 7 instruções. Como eu consegui com sucesso totalmente os três trabalhos dessa disciplina ?
 testes e mais testes, uma vez que o código em VHDL é embardo na FPGA não existe  _console.log()_, _print_, _system.out.println_. Todos os três
 projetos quando passaram em testes unitários e de integração, funcionaram como esperado na FPGA. 
 
