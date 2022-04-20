@@ -1,0 +1,26 @@
+{
+  "name": "samuel-cavalcanti.github.io",
+  "version": "1.0.0",
+  "description": "link para o blog [samuel-cavalcanti.github.io/](https://samuel-cavalcanti.github.io/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel-cavalcanti/samuel-cavalcanti.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuel-cavalcanti/samuel-cavalcanti.github.io/issues"
+  },
+  "homepage": "https://github.com/samuel-cavalcanti/samuel-cavalcanti.github.io#readme",
+  "dependencies": {
+    "next": "^12.1.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
