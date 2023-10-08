@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/samuel-cavalcanti/samuel-cavalcanti.github.io#readme",
   "dependencies": {
-    "next": "^12.1.5",
+    "next": "^13.5.4",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   }
