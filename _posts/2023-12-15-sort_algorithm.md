@@ -283,10 +283,10 @@ def __swap(heap: list[int], i: int, j: int):
 
 ### Algoritmos lentos
 
-![Algoritmos lentos]({{site.baseurl}}/assets/img/slow_algorithms.svg)
+![Algoritmos lentos](/assets/img/slow_algorithms.svg)
 
 ### Algoritmos Rápidos
 
-![Algoritmos Rápidos]({{site.baseurl}}/assets/img/fast_algorithms.svg)
+![Algoritmos Rápidos](/assets/img/fast_algorithms.svg)
 
 Códigos utilizados para a comparação: [samuel-cavalcanti/sort_algorithms](https://github.com/samuel-cavalcanti/sort_algorithms)

@@ -113,7 +113,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/test_chirpy"
 github_assets: "https://github.com/samuel-cavalcanti/samuel-cavalcanti.github.io/raw/main/assets"
 
 # ------------ The following options are not recommended to be modified ------------------

@@ -34,7 +34,7 @@ Custos relacionados a compreensão aprofundada do **estado atual da qualidade do
 
 Custo relacionado a falhas do produto, são custos que não existiriam se o software fosse prefeito. Devido ao fato de que quando mais tardio uma falha é encontrada no ciclo desenvolvimento de software mais caro ela é, então foi definido duas sub classes de custos de falhas de software: **custo de falha interna**, **custo de falha externa**.
 
-![custo_software.png]({{site.baseurl}}/assets/img/custo_sofware.png)
+![custo_software.png](/assets/img/custo_sofware.png)
 
 **Figura 1: Custo relativo para correção de erros e defeitos.**
 
