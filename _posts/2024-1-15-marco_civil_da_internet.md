@@ -5,8 +5,6 @@ categories: [Leis, Direito Digitial]
 tags: [Marco Civil da internet]
 ---
 
-# Marco Civil da internet
-
 <!--toc:start-->
 
 - [Marco Civil da internet](#marco-civil-da-internet)
@@ -25,8 +23,13 @@ tags: [Marco Civil da internet]
   - [Direitos e garantias dos usuários](#direitos-e-garantias-dos-usuários)
   - [Neutralidade da rede](#neutralidade-da-rede)
     - [Exceções](#exceções)
-  - [Proteção aos registros, aos dados pessoais e as comunicações privadas](#proteção-aos-registros-aos-dados-pessoais-e-as-comunicações-privadas) - [A conexão precisa ou seguir a legislação brasileira ?](#a-conexão-precisa-ou-seguir-a-legislação-brasileira) - [Sansões Aplicaveis a quem desobrir a regra quanto a guarda do registro](#sansões-aplicaveis-a-quem-desobrir-a-regra-quanto-a-guarda-do-registro)
-  <!--toc:end-->
+  - [Proteção aos registros, aos dados pessoais e as comunicações privadas](#proteção-aos-registros-aos-dados-pessoais-e-as-comunicações-privadas)
+    - [A conexão precisa ou seguir a legislação brasileira ?](#a-conexão-precisa-ou-seguir-a-legislação-brasileira-)
+    - [Sansões Aplicaveis a quem desobrir a regra quanto a guarda do registro](#sansões-aplicaveis-a-quem-desobrir-a-regra-quanto-a-guarda-do-registro)
+
+<!--toc:end-->
+
+# Marco Civil da internet
 
 ## Objetivos da internet no Brasil
 

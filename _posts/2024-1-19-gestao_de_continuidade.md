@@ -226,6 +226,6 @@ flowchart LR
 - MTTR: Mean Time TO Repair
 - MTBF: Mean Time Between Failure
 
-![RPO RTP](/assets/images/RPO_RTO_Eng.png) [**Business Continuity Terminologies – RTO, RPO & MAO**][Business Continuity Terminologies – RTO, RPO & MAO]
+![RPO RTP](/assets/img/RPO_RTO_Eng.png) [**Business Continuity Terminologies – RTO, RPO & MAO**][Business Continuity Terminologies – RTO, RPO & MAO]
 
 [Business Continuity Terminologies – RTO, RPO & MAO]: https://www.theresilience.page/business-continuity-terminologies-rto-rpo-mao/
