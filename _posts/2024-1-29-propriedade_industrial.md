@@ -3,6 +3,7 @@ layout: post
 title: "Lei 9.279, Propriedade Industrial"
 categories: [Leis, Direito Comercial]
 tags: [Propriedade Industrial]
+mermaid: true
 ---
 
 - [1. Propriedade Industrial](#1-propriedade-industrial)
@@ -82,7 +83,7 @@ tecnológico e econômico** do país, efetua-se mediante:
 4. repressão as falsa indicações geográficas;
 5. repressão á concorrência desleal
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
 flowchart TB
@@ -161,7 +162,7 @@ nas condições estabelecidas nesta lei:
   - **_pelos herdeiros ou sucessores do autor;_**
   - **_a quem a lei ou o contrato de trabalho ou prestação de serviços determinar que pertença a titularidade_**;
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
 flowchart TB
@@ -331,7 +332,7 @@ A mesma regra de unidade aplica-se ao pedido de patente de modelo de utilidade.
 - **_O pedido de patente de modelo de utilidade terá de se referir a um único modelo principal, que poderá incluir uma pluralidade de elementos distintos,_**
   **_adicionais ou variantes construtivas ou configurativas, desde que mantida a unidade técnico funcional e corporal do objeto._**
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
 flowchart TB
@@ -369,7 +370,7 @@ e 15 anos para o modelo de utilidade. Note que o início da contagem desse prazo
 
 - **_A patente de invenção vigorará pelo prazo de 20 anos e o de modelo de utilidade pelo prazo de 15 anos contados da data de deposito_**
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
 flowchart LR

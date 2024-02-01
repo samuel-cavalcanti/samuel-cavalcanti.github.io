@@ -141,7 +141,7 @@ As métricas de qualidade de software são medidas **quantitativas** que são ut
 As métricas de qualidade podem ser aplicadas em diferentes áreas, incluindo código-fonte, processo de desenvolvimento, testes, desempenho e usabilidade. 
 Tanto a qualidade externa e interna possui os mesmos sub tipos de qualidade: funcionalidade, confiabilidade, usabilidade, eficiência, manutenibilidade, portabilidade.
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart TB
  root[Qualidade interna e externa]
@@ -177,7 +177,7 @@ necessidades implícitas ou explícitas. A funcionalidade deve ser medida quando
 sob condições especificas. Funcionalidade foi dividia em quatro sub características: adequação, acurácia, segurança
 de acesso, conformidade relacionada á funcionalidade.
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
 flowchart TB
@@ -222,7 +222,7 @@ Confiabilidade possui quatro subcaracterísticas: maturidade, tolerância a falh
 > Perceba que para mensurar confiabilidade tem que ter adequação, ou seja, dado que um software possui a funcionalidade
 > desejada, o quão confiável ele é ?
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
 flowchart TB
@@ -265,7 +265,7 @@ a confiabilidade.
 
 Usabilidade é a capacidade do software ser compreendido, aprendido, operado e atraente ao usuário.
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
 flowchart TB
@@ -311,7 +311,7 @@ a usabilidade.
 
 Eficiência é a capacidade do software de apresentar desempenho apropriado, relativo a quantidade de recursos usados.
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
 flowchart TB
@@ -347,7 +347,7 @@ a eficiência.
 Manutenibilidade é a capacidade do software de ser modificado. As modificações podem incluir correções, melhorias ou
 adaptações devido a mudanças no ambiente e nos seus requisitos ou especificações funcionais.
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
 flowchart TB
@@ -393,7 +393,7 @@ a manutenibilidade.
 
 Portabilidade é a capacidade de software de ser transferido de um ambiente para outro.
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
 flowchart TB
@@ -443,7 +443,7 @@ A visão de qualidade do produto sobre a perspectiva do usuário medida quando o
 A unidade de medida é o quanto o usuário está satisfeito, atendido com o produto. A qualidade em uso se divide
 em quatro sub tipos: eficácia, produtividade, segurança, satisfação.
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
 flowchart TB

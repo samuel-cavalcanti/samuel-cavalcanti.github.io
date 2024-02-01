@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Algoritmos de ordenação"
+math: true
 ---
 
 # Resumo sobre Algoritmos de ordenação

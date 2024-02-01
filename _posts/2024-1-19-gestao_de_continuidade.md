@@ -168,7 +168,7 @@ de queda e os impactos provocados por um eventual incidente. Um exemplo simples 
 
 Imagine um cenário a qual se possui 2 data centers
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false,"width":2%}}, }%%
 flowchart TB
   id1((Data center 1))
@@ -180,7 +180,7 @@ flowchart TB
 Os dois _Data centers_ ficaram funcionando **ativamente** compartilhando recursos. No caso da falha de um,
 não há qualquer prejuízo dos, inclusive na disponibilidade dos serviços qu estão sendo providos pelos _Data centers_.
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
   id1((Data center 1))
@@ -202,7 +202,7 @@ serviço sem o prejuízo das informações. Este novo ambiente está **inativo**
 o ambiente original. Portanto em caso de falha do primeiro, tem-se um pequeno intervalo de indisponibilidade,
 que seria o tempo necessário para "ligar" o novo _data center_ que já estava preparado.
 
-```mermaid!
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
   id1((Data center 1))
