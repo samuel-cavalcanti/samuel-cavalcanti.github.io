@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Gestão de Continuidade de Negócio"
+mermaid: true
 ---
 
 # Gestão de Continuidade de Negócio

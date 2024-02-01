@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Qualidade de Software"
+mermaid: true
 ---
 
 # Qualidades de software
