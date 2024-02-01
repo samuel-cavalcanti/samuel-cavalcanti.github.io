@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Qualidade de Software"
+categories: [Engenharia de Software, Qualidade de Software]
+tags: [Qualidade de Software]
 mermaid: true
 ---
 
@@ -55,7 +57,7 @@ mermaid: true
       - [Satisfação](#satisfação)
 
 Qualidade de software pode ser definida como: _uma gestão de qualidade efetiva aplicada de modo a criar um produto útil que forneça_
-_valor mensurável para aqueles que o produzem e para aqueles que o utilizam._ 
+_valor mensurável para aqueles que o produzem e para aqueles que o utilizam._
 —Roger S. Pressman, Bruce R. Maxim, “Engenharia de software”, p. 312.
 Portanto **Gerenciamento de qualidade de software** se preocupa em estabelecer padrões e
 procedimentos para o desenvolvimento de software com qualidade. Algumas características de qualidade desejadas a um produto
@@ -75,7 +77,6 @@ para produzir um software de qualidade:
 - Possuir um gerenciamento de projetos consistente
 - Ter um controle de qualidade
 - Possuir uma infraestrutura para garantir a qualidade
-
 
 ## Garantia de Qualidade e Controle de Qualidade
 
@@ -136,10 +137,10 @@ portanto subjetivas. Exemplo de escalas são:
   - Mínimo aceitável
   - inaceitável
 
-### Métricas de Qualidade de software 
+### Métricas de Qualidade de software
 
 As métricas de qualidade de software são medidas **quantitativas** que são utilizadas para avaliar diversos aspectos do desenvolvimento, manutenção e desempenho do software. Elas fornecem uma maneira objetiva de avaliar a qualidade do software ao longo do ciclo de vida do projeto.
-As métricas de qualidade podem ser aplicadas em diferentes áreas, incluindo código-fonte, processo de desenvolvimento, testes, desempenho e usabilidade. 
+As métricas de qualidade podem ser aplicadas em diferentes áreas, incluindo código-fonte, processo de desenvolvimento, testes, desempenho e usabilidade.
 Tanto a qualidade externa e interna possui os mesmos sub tipos de qualidade: funcionalidade, confiabilidade, usabilidade, eficiência, manutenibilidade, portabilidade.
 
 ```mermaid

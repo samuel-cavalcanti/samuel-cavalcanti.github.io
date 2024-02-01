@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Custo da Qualidade de software: Um resumo"
+categories: [Engenharia de Software, Custo de qualidade de software]
+tags: [Custo de qualidade de software, Qualidade de Software]
 ---
 
 - [Custo de prevenção](#custo-de-prevenção)
@@ -8,7 +10,6 @@ title: "Custo da Qualidade de software: Um resumo"
 - [Custo de falhas](#custo-de-falhas)
   - [Custo de falha interna](#custo-de-falha-interna)
   - [Custo de falha externa](#custo-de-falha-externa)
-
 
 O Custo da qualidade de software é todo custo que está relacionado a busca pela qualidade de software e toda atividade que está relacionada a qualidade de software, ou sua falta. O custo pode ser dividido em em 3 custos associados: **custo de prevenção**, **custo de avaliação**, **custo de falhas**.
 

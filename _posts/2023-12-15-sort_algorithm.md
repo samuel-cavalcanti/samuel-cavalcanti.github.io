@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Algoritmos de ordenação"
+categories: [Algoritmos e Estrutura de Dados, Algoritmos de ordenação]
+tags:
+  [Bubble sort, Insertion sort, Shell sort, Quick sort, Merge sort, Heap sort]
 math: true
 ---
 
@@ -16,10 +19,8 @@ math: true
   - [Quick sort](#quick-sort)
   - [Merge sort](#merge-sort)
   - [Heap sort](#heap-sort)
-  - [Comparação entre os Algoritmos](#comparação-entre-os-algoritmos)
-    - [Algoritmos lentos](#algoritmos-lentos)
-    - [Algoritmos Rápidos](#algoritmos-rápidos)
-<!--toc:end-->
+  - [Comparação entre os Algoritmos](#comparação-entre-os-algoritmos) - [Algoritmos lentos](#algoritmos-lentos) - [Algoritmos Rápidos](#algoritmos-rápidos)
+  <!--toc:end-->
 
 | Algoritmo      | Pior caso $O(n)$ | Caso Médio $\Theta(n)$ | Melhor caso $\Omega(n)$    |
 | -------------- | ---------------- | ---------------------- | -------------------------- |
@@ -240,7 +241,7 @@ def heap_sort(a: list[int]) -> None:
         __swap(a, 0, i)
         size -= 1
         heapify(heap=a, current_index=0, heap_size=size)
-        
+
 
 
 def build_max_heap(a: list[int]):

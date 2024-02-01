@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "SOAP, UDDI e WSDL"
+categories: [Arquitetura de Software, Arquitetura Orientada a Serviços]
+tags: [Arquitetura Orientada a Serviços, Web Services, SOA, SOAP, UDDI, WSDL]
 ---
 
 <!--toc:start-->
@@ -206,7 +208,7 @@ Um exemplo de WSDL para para Calculadora pode ser encontrada abaixo.
 [W3Schools XML Soap][W3Schools]  
 [WSDL Example][WSDL example]  
 [O que é WSDL (Web Services Description Language)?](https://pt.stackoverflow.com/questions/29116/o-que-%c3%a9-wsdl-web-services-description-language)  
-[Web Services e Arquitetura Orientada a Serviços](https://pauloricmarinho.gitbook.io/desenvolvimento/webservices/web-services-and-soa)  
+[Web Services e Arquitetura Orientada a Serviços](https://pauloricmarinho.gitbook.io/desenvolvimento/webservices/web-services-and-soa)
 
 [W3Schools]: https://www.w3schools.com/xml/xml_soap.asp
 [WSDL example]: https://learn.microsoft.com/en-us/windows/win32/wsw/calculatorwsdl?redirectedfrom=MSDN
