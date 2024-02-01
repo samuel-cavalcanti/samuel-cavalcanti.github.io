@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://samuel-cavalcanti.github.io/test_chirpy"
+url: "https://samuel-cavalcanti.github.io"
 
 github:
   username: samuel-cavalcanti # change to your github username
@@ -113,7 +113,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/test_chirpy"
+baseurl: ""
 github_assets: "https://github.com/samuel-cavalcanti/samuel-cavalcanti.github.io/raw/main/assets"
 
 # ------------ The following options are not recommended to be modified ------------------
