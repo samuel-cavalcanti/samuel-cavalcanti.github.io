@@ -120,6 +120,8 @@ github_assets: "https://github.com/samuel-cavalcanti/samuel-cavalcanti.github.io
 
 kramdown:
   syntax_highlighter: rouge
+  math_engine_opts:
+    preview: true
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
     # default_lang: console
