@@ -160,6 +160,7 @@ Semelhante a 3º forma normal, Boyce-Codd busca remover a dependência transitiv
 Para uma tabela está na terceira forma normal, todos os atributos **não chaves** dependem **exclusivamente** da chave primária. No entanto e se em uma relação com os atributos: $(A,B,C,D)$ onde a chave primária é formada pelos atributos $A,B$ e $B$ depende funcionalmente de $C$, ou seja:
 
 $$ A,B \to C,D $$
+
 $$C \to B$$
 
 Partindo do pressuposto que:
