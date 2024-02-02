@@ -16,7 +16,7 @@ Banco de dados e suas tecnologias tiverem um grande impacto no crescimento da ut
 dizer fatos conhecidos que possuem significado e podem ser gravados.
 
 > `banco de dados` é uma coleção de dados e dado é um **fato** conhecido que possui significado e pode ser gravado.
-> {: .prompt-tip }
+{: .prompt-tip }
 
 Um exemplo de dado é um número de de telefone, um fato que é armazenado no banco de dados de um _smartphone_. Perceba que é necessário saber o significado
 do dado, ou seja, a sequencia de dígitos só ira fazer sentido quando souber de que se trata de um número de telefone.
