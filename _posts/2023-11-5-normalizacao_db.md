@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Normalização de dados: formas normais"
+math: true
 
 categories: [Banco de Dados, Banco de dados relacional]
 tags: [Normalização de dados, Banco de Dados]
