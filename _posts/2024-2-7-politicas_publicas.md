@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Políticas Públicas"
+title: "Políticas Públicas: conceitos e tipologias"
 categories: [Políticas Públicas, conceitos e tipologias]
 tags: ["Políticas Públicas: conceitos e tipologias", "Políticas Públicas"]
 
