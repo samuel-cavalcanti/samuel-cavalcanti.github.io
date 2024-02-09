@@ -7,8 +7,6 @@ tags:
     "Políticas Públicas: Classificação das políticas públicas",
     "Políticas Públicas",
   ]
-
-mermaid: true
 ---
 
 # Classificação das políticas públicas
