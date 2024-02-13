@@ -141,6 +141,11 @@ permitirão executá-la.
 A fase da execução é um conjunto de ações destinadas a atingir os objetivos da política. É por em prática, é a sua realização e inclui o estudo dos obstáculos que se opõem á
 transformação de enunciados em resultados, e especialmente, a análise da burocracia.
 
+### Monitoramento
+
+Ao longo da execução é feito o monitoramento, com o objetivo de controlar as entregas, identificando problemas e falhas que **podem ser corrigidas durante a execução**.
+O próprio órgão da política é o responsável pelo monitoramento.
+
 ### Modelo de Implementação Top-Down
 
 Há a separação entre o momento da tomada de decisão política e o momento de implementação. Trata=se de um processo linear de implementação no qual o momento da tomada de decisão
@@ -160,6 +165,156 @@ de decisão não é definitivo, podendo ser modificável pelos implementadores n
 
 O modelo híbrido é caracterizado pela junção dos dois modelos top-down e bottom-up. Este modelo passou a ser muito utilizado na implementação das políticas públicas sobretudo,
 depois da reforma do Estado, nos anos 90.
+
+## Avaliação das Políticas públicas
+
+É a fase do ciclo de Política públicas em que o processo de implementação e o desempenho da política pública são examinados com o intuito de conhecer o estado da política e o
+nível de redução do problema. É o momento-chave para feedback das fases antecedentes. A avaliação envolve a mensuração objetiva e qualitativa de resultados, um julgamento sobre o
+valor das intervenções governamentais, por parte dos avaliadores internos, externos e beneficiários. A avaliação é um importante instrumento de controle social, pois contribui
+para que essa política produza os resultados almejados pela sociedade.
+
+### Avaliação x Monitoramento
+
+- Enquanto o monitoramento é realizado pelo próprio órgão responsável da política, a avaliação deve ser condizida por órgãos independentes.
+- Enquanto o monitoramento busca por falhas para corrigir os rumos da execução, a avaliação busca verificar e quantificar os efeitos desejados e indesejados da política pública.
+
+### Avaliações em relação ao momento do ciclo de políticas públicas
+
+#### Avaliação Diagnóstica ou Controle prévio (Avaliação EX ANTE)
+
+O controle prévio é realizado antes da implementação do projeto, para verificar a pertinência e viabilidade da política pública. O controle prévio busca reduzir erros de desenho e
+formulação de políticas públicas. Por ser realizado antes da implementação o o controle prévio também é chamado de **controle proativo**
+
+#### Avaliação formativa ou Controle concomitante (Avaliação IN ITINERE)
+
+O controle concomitante é realizado durante a execução da política pública com o objetivo de melhorar a implementação. Por detectar e corrigir desvios na execução, o controle
+concomitante é considerado um **controle reativo**.
+
+#### Avaliação Somativa ou Controle Posterior (Avaliação EX POST)
+
+O controle posterior é realizado após a execução e surgimento do impacto da política pública. O controle posterior visa avaliar os resultados obtidos com os esperados, observando
+a sua eficácia.
+
+### Avaliações quanto ao Agente Avaliador
+
+#### Avaliação interna
+
+Esta avaliação é realizada por indivíduos que possuem envolvimento direito ou indireto de dentro da instituição responsável pelo programa. A avaliação interna é geralmente parcial,
+no entanto pode ser útil para reduzir resistências internas.
+
+#### Avaliação Externa
+
+Avaliação Externa é realizada por indivíduos de fora da instituição responsável pola política pública, que não integram o quadro de pessoal. A avaliação externa tende a ser imparcial
+
+#### Avaliação Mista
+
+Avaliação mista é realizada tanto por indivíduos por fora quando por dentro da instituição. Ter membros de dentro da instituição facilita ao acesso a dados enquanto os membros fora
+da instituição aumenta a imparcialidade.
+
+#### Avaliação Participativa
+
+Na avaliação participativa os beneficiários da política pública e os gestores fazem parte da avaliação.
+
+### Avaliações quanto ao conteúdo
+
+#### Avaliação conceitual (_design_)
+
+Avaliação conceitual tem por objetivo analisar a **concepção** do programa no que tange a sua **racionalidade**,**coerência** e **consistência**
+
+#### Avaliação do processo de implementação e Gestão do programa
+
+A avaliação do processo tem por objetivo analisar a maneira pela qual o programa é gerido e executado, medindo a capacidade de uma entidade em relação á concepção, á implementação,
+á monitorização e á avaliação.
+
+#### Avaliação de impactos e Resultados
+
+A avaliação de impactos visa analisar o nível em que a política pública alcança os objetivos ou atinge o valor de parâmetros ou critérios definidos e os custos disponíveis
+
+### Avaliações quanto á metodologia
+
+#### Avaliação de metas
+
+Avaliação de metas tem por objetivo analisar o grau de sucesso da política pública em relação ao alcance das metas propostas. O foco da avaliação está na eficácia
+
+#### Avaliação de impactos
+
+Avaliação de impactos visa analisar os efeitos produzidos sobre os beneficiários da política pública .O foco da avaliação está na efetividade
+
+#### Avaliação de processo
+
+A avaliação de processo tem por objetivo investigar o grau em que se está alcançando a população beneficiária e o acompanhamento de seus processos internos.
+O foco da avaliação está na eficiência
+
+#### Avaliação jurídica
+
+A avaliação jurídica visa examinar a conformidade dos atos de gestor com a lei ao conduzir a política pública.
+
+### Critérios, indicadores e padrões
+
+- Critérios são operacionalizados por meio de indicadores.
+- Indicadores são artifícios utilizados para medir: recursos utilizados, produtividade, resultados
+- Padrões servem para serem comparados com indicadores
+- A avaliação da política pública pode ter como resultado [desfechos](#desfechos).
+
+#### Critérios de avaliação
+
+- **Economicidade**: Refere-se ao nível de utilização de recursos
+- **Produtividade**: Refere-se ao nível de saídas de um processo produtivo
+- **Eficiência econômica**: Trata da relação entre produtividade e recursos utilizados
+- **Eficiência administrativa**: Trata do seguimento de prescrições, ou seja, do nível de conformidade da execução a métodos preestabelecidos.
+- **Eficácia**: Corresponde ao nível de alcance de metas ou objetivos preestabelecidos
+- **Equidade**: Trata da homogeneidade de distribuição de benefícios ou punições entre os destinatário de uma política pública.
+- **Efetividade**: Está relacionado ao impacto das ações, alcançar os resultados pretendidos, de forma a alterar a realidade.
+
+#### Indicadores
+
+- **indicadores de entrada**: são relacionados a gastos financeiros, recursos humanos empregados ou recursos materiais utilizados
+- **indicadores de saída**: são relacionados á produtividade de serviços ou produtos.
+- **indicadores de resultado**: são relacionados aos efeitos da política pública sobre os beneficiários e a capacidade de resolução ou mitigação do problema.
+
+#### Padrões
+
+- **Padrões absolutos**: metas qualitativas ou quantitativas estabelecidas anteriormente á implementação da política pública;
+
+- **Padrões históricos**: valores ou descrições já alcançados no passado e que facilitam a comparação por períodos (meses, anos) e por consequência, geram informações sobre declínio
+  ou melhora da política pública;
+
+- **Padrões normativos**: metas qualitativas ou quantitativas estabelecidas com base em um _benchmark_ ou _standard ideal_.
+
+#### Desfechos
+
+Uma política pode ter como resultados três tipos de desfechos:
+
+- **Continuação** da política pública da maneira que ela está;
+
+- **Reestruturação marginal** de aspectos práticos da política pública. Em um caso que foram observadas algumas adversidades em que uma mudança na política pode resolver;
+
+- **Extinção** da política pública. Em um caso que o problema pública foi resolvido ou quando as adversidades observadas na implementação da política pública são insuperáveis;
+
+### Tipos de Análise
+
+#### Analise Custo Beneficio
+
+A analise custo beneficio é utilizada quando os custos e os resultados das políticas públicas podem ser traduzidos em unidades monetárias (dinheiro). Trata-se de uma análise
+quantitativa utilizada normalmente em política econômicas.
+
+#### Analise Custo Efetividade
+
+A analise custo efetividade é utilizada quando os impactos da política pública não podem ser traduzidos para unidades monetárias. Trata-se de uma análise qualitativa, voltada a
+analisar qual política traz os melhores impactos, com os menores custos envolvidos. Essa Análise é normalmente utilizada em políticas sociais.
+
+### Modelo lógico
+
+O modelo lógico consiste em uma representação gráfica da teoria de funcionamento de um programa, beneficio, serviço ou política pública e retrata as relações entre os componentes
+necessário a sua implementação e os efeitos esperados sobre a população. O modelo lógico é uma teoria de formulação de políticas.
+
+O modelo lógico exibe a relação lógica causal entre os 5 componentes
+
+- **Insumos**: Refere-se aos recursos do setor público (orçamentários ou não) necessários para atingir os objetivos da política pública
+- **Processos**: Refere-se as ações que combinam os recursos disponíveis para produzir bens e serviços a fim de atacar as causas do problema.
+- **Produtos**: São os bens ou serviços resultantes de um processo, ou seja, as entregas da política pública para gerar resultados.
+- **Resultados**: São mudanças incidentes sobre as causas do problema, que decorrem de um ou mais produtos.
+- **Impactos**: Mudança de longo prazo no problema que a política busca enfrentar, alinhado aos objetivos da política.
 
 ## Secchi
 
