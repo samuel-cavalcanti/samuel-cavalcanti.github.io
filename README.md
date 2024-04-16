@@ -9,11 +9,11 @@ Para rodar o blog localmente:
 Verifique a versão do ruby em [.ruby-version](.ruby-version)
 
 ```bash
- bundle exec jekyll s --livereload
+make live
 ```
 
 Execute os testes
 
 ```bash
-./test.sh
+make test
 ```
