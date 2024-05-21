@@ -152,20 +152,20 @@ o conjunto de funcionalidade que podem ser acessadas por meio de um terminal con
   - Justifiquem sua coleta
   - Não seja vedadas pela legislação
   - estejam especificadas nos contratos de prestação de serviçõs ou em termos de uso de aplicações de internet
-    > A lei **não impede a coleta ou o uso de dados**. Ná pratica a lei só pede para detalhar a finalidade do uso.
-    > Apesar de aplicações como: Facebook,Instagram,Youtube,**Google** continuaram fazendo Bilhões de dolares todos
-    > os anos com anúncios e as pessoas continuaram sendo manipuladas pelo seu feed de nóticias, notificações e
-    > **resultados da pesquisa**. **Os primeiros resultados do Google são compravéis**
+    > A lei **não impede a coleta ou o uso de dados**. Na pratica a lei só pede para **detalhar a finalidade do uso**.
+    > Aplicações como: Facebook, Instagram, Youtube, **Google** continuaram fazendo Bilhões de dólares todos
+    > os anos com anúncios e as **pessoas continuaram sendo manipuladas por quem pagar mais**, através do feed de noticias, notificações e
+    > resultados da pesquisa. **Os primeiros resultados do Google são compráveis**.
 - exclusão definitiva dos dados pessoais que tiver fornecido a determinada aplicação de internet e seu requerimento,
-  ao termino da relação entre pares. **Registros obrigatórios** previstos nesta lei não podem ser elimidados.
+  ao termino da relação entre pares. **Registros obrigatórios** previstos nesta lei não podem ser eliminados.
   > É muito imporavavél que você consiga remover os seus dados pessoais. É tão complicado que surgiu empresas focadas
   > neste tipo de serviço: [Melhores empresas para remover seus dados][Melhores empresas para remover seus dados].
 - publicidade e clareza de eventuais politicas de uso de provedodres de conexão a internet e de aplicações de internet
-  > Um dos maiores escandalos chamado [The FaceBook papers][The Facebook Papers], em um dos documentos fazados mostra que as redes sociais do Mark Zuckerberg
-  > simplesmente está cagando e andando para moderação de conteúdo em paises que não falam inglês: [Desinformação em paises latinos][Desinformação em paises latinos].
-  > Entenda **moderação** é **custo**, **gasto** a ser evitado. A solução encontrada para amenizar o escandalo foi mudar o nome da empresa para Meta.
-  > **Desconheço** qualquer ação do governo brasileiro devido ao escandalo na época.
-- acessibilidade, consideradas as caracteristicas fisico-motoras, perceptivas, sensoriais, intelectuais e mentais do usuário (nos termos da lei)
+  > Um dos maiores escândalos chamado [The FaceBook papers][The Facebook Papers], em um dos documentos vazados mostra que as redes sociais do Mark Zuckerberg
+  > simplesmente está cagando e andando para moderação de conteúdo em países que não falam inglês: [Desinformação em paises latinos][Desinformação em paises latinos].
+  > Entenda **moderação** é **custo**, **gasto** a ser evitado. A solução encontrada para amenizar o escândalo foi mudar o nome da empresa para Meta.
+  > **Desconheço** qualquer ação do governo brasileiro devido ao escândalo na época.
+- acessibilidade, consideradas as características físico-motoras, perceptivas, sensoriais, intelectuais e mentais do usuário (nos termos da lei)
 - aplicação das normas de proteção e defesa do consumidor nas relação de consumo realizadas na internet
 - os direitos a privacidade e á liberdade de expressão nas comunicações são uma condição para o pleno exercício do direito de acesso a internet
 - são nulas de pleno direito as cláusulas contratuais que violem uma destas duas garantias: **privacidade** e **liberdade de expressão** que:
@@ -175,18 +175,18 @@ o conjunto de funcionalidade que podem ser acessadas por meio de um terminal con
 
 ## Neutralidade da rede
 
-**Em geral** o responsável pela transmição, comunicação ou roteamento tem o **dever** de tratar de forma isonômica quaisquer pacotes de dados, sem distinção por conteúdo, origem e destino,
-serviço, terminal ou aplicação. Ná provisão de conexão á internet, seja paga ou gratuita, bem como transmissão, comutação ou roteamento, é **vedado** bloquear, monitorar, filtrar ou analisar
+**Em geral** o responsável pela transmissão, comunicação ou roteamento tem o **dever** de tratar de forma isonômica quaisquer pacotes de dados, sem distinção por conteúdo, origem e destino,
+serviço, terminal ou aplicação. Na provisão de conexão á internet, seja paga ou gratuita, bem como transmissão, comutação ou roteamento, é **vedado** bloquear, monitorar, filtrar ou analisar
 o conteúdo dos pacotes.
 
 > Atualmente, a grande maioria dos pacotes trafegados são criptografados dificultando a filtragem, monitoramento, analise ou bloqueio.
 
 ### Exceções
 
-A discriminação ou degradação do trafego será regulamentada nos termos das atribuições privativas do Presidente da República (decreto presidêncial), ouvidos o Comit6e Gestir da internet
-e Ag6encia Nacional de Telecomunicações e somente poderá decorrer de:
+A discriminação ou degradação do trafego será regulamentada nos termos das atribuições privativas do Presidente da República (decreto presidencial), ouvidos o Comitê Gestor da internet
+e Agência Nacional de Telecomunicações e somente poderá decorrer de:
 
-- requisitos técnicos indispensáveis á prestação adequada dos serviçõs e aplicações
+- requisitos técnicos indispensáveis á prestação adequada dos serviços e aplicações
 - priorização de serviços de emergência
 
 ## Proteção aos registros, aos dados pessoais e as comunicações privadas
@@ -198,23 +198,23 @@ ou seja, qualificação pessoal, filiação, endereço, esses dados poderem ser 
 ### A conexão precisa ou seguir a legislação brasileira ?
 
 Em qualquer operação de **coleta**,**armazenamento**, **guarda** e **tratamento** de registros, de dados pessoais ou comunicação por provedores de conexão e de aplicações de internet
-**em pelo um desses atos ocorra em torritório nacional**, deverão ser obrigatoriamente respeitados a legislação brasileira e os diretos a privacidade, á proteção dos dados pessoais e ao sigilo
+**em pelo um desses atos ocorra em território nacional**, deverão ser obrigatoriamente respeitados a legislação brasileira e os diretos a privacidade, á proteção dos dados pessoais e ao sigilo
 das comunicações privadas e dos registros.
 
-- Dados coletados em território nacional e ao conteudo das comunicações, desde que **pelo menos um dos terminais esteja no Brasil** devem seguir a Lei brasileira
-- Mesmo que as atividades (**coleta**,**armazenamento**, **guarda** e **tratamento**) sejam realizadas por pessoa juridica no exterior, desde que o serviço esteja oferecido
+- Dados coletados em território nacional e ao conteúdo das comunicações, desde que **pelo menos um dos terminais esteja no Brasil** devem seguir a Lei brasileira
+- Mesmo que as atividades (**coleta**,**armazenamento**, **guarda** e **tratamento**) sejam realizadas por pessoa jurídica no exterior, desde que o serviço esteja oferecido
   no Brasil, deve-se seguir a lei brasileira
 
 > Lembrando que uma **VPN**, não precisa coletar, armazenar, processar, guardar registros de dados pessoais. Na verdade você **paga** justamente para eles não fazerem isso.
-> Uma **VPN** idealmente é responsável apenas pela camada de **transporte**. Portanto uma **VPN** **não** precisa **obrigatóriamente** respeitar a legislação brasileira.
+> Uma **VPN** idealmente é responsável apenas pela camada de **transporte**. Portanto uma **VPN** **não** precisa **obrigatoriamente** respeitar a legislação brasileira.
 
-### Sansões Aplicaveis a quem desobrir a regra quanto a guarda do registro
+### Sansões Aplicáveis a quem descumprir a regra quanto a guarda do registro
 
 - Advertência com indicação de prazo para adoção de medidas corretivas
 - Multa de até 10% do faturamento do grupo econômico do Brasil no seu último exercício
-- suspensão temporaria
+- suspensão temporária
 - proibição de exercício
-  > Tanto a suspensão quando a proibição se referem aos atos de coleta de armazenamento, guarda, tratamente de registros de dados pessoais ou de comunicações.
+  > Tanto a suspensão quando a proibição se referem aos atos de coleta de armazenamento, guarda, tratamento de registros de dados pessoais ou de comunicações.
   > Portanto os demais serviços da aplicação web podem ficar disponíveis
 
 [Quem comprou a Copel]: https://www.bloomberglinea.com.br/negocios/quem-comprou-a-copel-estatal-de-energia-privatizada-pelo-governo-do-parana/
