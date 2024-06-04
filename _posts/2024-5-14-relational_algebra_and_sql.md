@@ -143,7 +143,7 @@ $$
 \text{RESULT} \leftarrow  \pi_{(\text{Fname,Lname,Dependent_name})}(\text{E_DEPENDENTS})
 $$
 
-As tabelas geradas pelas operações são:
+As tabelas geradas pelas operações são: 
 
 | Fname    | Minit | Lname   | <u>ssn</u> | Bdate      | Address                 | Sex | Salary | Super_ssn  | Dino |
 | -------- | ----- | ------- | ---------- | ---------- | ----------------------- | --- | ------ | ---------- | ---- |
@@ -197,7 +197,37 @@ As tabelas geradas pelas operações são:
 | -------- | ------- |  -------------- |
 | Jennifer | Wallace |  Abner          |
 
-**tabela: RESULT**
+ **tabela: RESULT** 
+
+
+## Join 
+
+Uma das operações muito utilizadas em comando SQL é o `JOIN`. Essa operação pode ser entendia como um
+[produto cartesiano](#produto-cartesiano) seguido de um [`SELECT`](#select-algebra-relacional). Portanto
+`JOIN` é uma operação **binária** cuja a relação resultante é $n +m$ onde $n$ é o número de atributos da primeira
+tabela e $m$ é o número de atributos da segunda tabela.
+Perceba que diferente do produto cartesiano o `JOIN` possui uma **condição** para que se satisfaça a junção
+das tabelas. Condição que especifica e limita as combinações entre as tuplas.
+
+Essa operação é representada pelo símbolo $\Join$.
+
+Utilizado o `JOIN`, podemos então substituir as equações:
+
+$$
+\text{CROSS_DEPENDENTS} \leftarrow \text{E_NAMES} \times \text{DEPENDENT}
+$$
+
+$$
+\text{E_DEPENDENTS} \leftarrow  \sigma_{\text{Ssn}=\text{Essn}}(\text{CROSS_DEPENDENTS})
+$$
+
+Por apenas uma equação:
+
+$$
+\text{E_DEPENDENTS} \leftarrow  \text{E_NAMES} \Join_{\text{Ssn}=\text{Essn}} \text{DEPENDENT}
+$$
+
+
 
 ## Tabelas
 
