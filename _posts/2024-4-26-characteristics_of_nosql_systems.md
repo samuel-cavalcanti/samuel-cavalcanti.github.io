@@ -42,4 +42,38 @@ As característica dos sistemas SQL relacionadas ao modelo de dados e sua lingua
 
 3. **versionamento**: Alguns sistemas NoSQL possuem suporte a múltiplas versões dos mesmos objetos, cada versão com a sua marca temporal (_timestamps_)
 
+## Particionamento horizontal e vertical
+
+### Particionamento horizontal
+
+Um bom exemplo de particionamento horizontal seria a divisão dos dados de uma rede social, Facebook, por exemplo, onde cada nó do sistema de banco de dados
+armazenaria **todos** os dados de login (_username_,_password_) dos usuários pela sua localização. Portanto se usuário mora do brasil, então os seus dados de login estaria
+em um nó em São Paulo e esse nó não teria os dados de um usuário norte americano. **Diferentemente** da partição vertical cada nó possuí todos os campos de um usuário, mas
+um nó não possui todos os dados de **todos** os usuários, mas sim todos os dados **de um grupo de usuários**.
+
+### Particionamento vertical
+
+Um exemplo de particionamento vertical, seria por exemplo a **divisão dos campos de uma tabela** pela frequência. Seja uma tabela Produto:
+
+| id  | preço | quantidade | localização id |
+| --- | ----- | ---------- | -------------- |
+| 1   | 100   | 43         | 666            |
+| ... | ...   | ...        | ...            |
+
+Onde os campos **id,preço,quantidade** seja muito mais requisitados do que **localização id**. Então é possível repartir essa tabela em duas
+
+| id  | preço | quantidade |
+| --- | ----- | ---------- |
+| 1   | 100   | 43         |
+| ... | ...   | ...        |
+
+> Tabela A: Mais frequente
+
+| id  | localização id |
+| --- | -------------- |
+| 1   | 666            |
+| ... | ...            |
+
+> Tabela B: menos frequente
+
 [DHT]: https://lasarojc.github.io/ds_notes/arch/p2p/#tabelas-de-espalhamento-distribuidas-dht
