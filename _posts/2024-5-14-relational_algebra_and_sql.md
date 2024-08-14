@@ -51,9 +51,22 @@ $$
 ## Rename
 
 A operação relacional `RENAME` também é uma função unária, ou seja, recebe como argumento de entrada uma única relação.
-Ela realiza a mudança de nome de um ou mais atributos e é representada pela letra grega $\rho$ ("rho"). Também podemos
-renomear relações através da operação de atribuição: $\leftarrow$.
+**Ela realiza a mudança de nome de um ou mais atributos** ou **renomear o nome da relação** e é representada pela letra grega $\rho$ ("rho").
+Também podemos renomear relações através da operação de atribuição: $\leftarrow$.
 Um exemplo de comando SQL que realiza a operação `RENAME` seria:
+
+```sql
+SELECT DISTINCT E.Fname AS First_name, E.Lname AS Last_name, E.Salary AS Salary
+FROM EMPLOYEE AS E
+```
+
+Em algebra relacional seria:
+
+$$
+ \rho_{\text{E}(\text{First_name},\text{Last_name},\text{Salary})}(\text{EMPLOYEE})
+$$
+
+### Exemplo de tradução de um comando Sql para algebra relacional que utiliza os comandos `SELECT`, `PROJECT` e `RENAME`
 
 ```sql
 SELECT DISTINCT E.Fname AS First_name, E.Lname AS Last_name, E.Salary AS Salary
@@ -61,12 +74,15 @@ FROM EMPLOYEE AS E
 WHERE E.Dno=5;
 ```
 
-Perceba que em algebra relacional, nós temos um `SELECT`, `PROJECT` e `RENAME` podemos expressar essas operações
-em algebra relacional da seguinte forma:
+Como o comando utiliza as múltiplas operações: `SELECT`, `PROJECT` e `RENAME`, podemos expressar essas operações
+dividindo em partes e criando relações intermediárias para facilitar o processo.
 
 $$
 E \leftarrow \text{EMPLOYEE}
 $$
+
+> Ao invés de renomear a tabela com o operação $\rho$ preferir utilizar a atribuição
+{: .prompt-info }
 
 $$
 \text{Dep5_E}  \leftarrow  \sigma_{\text{Dno}=5}(E)
@@ -114,6 +130,9 @@ não precisa respeitar a compatibilidade de tipos. O produto cartesiano é repre
 
 $$
 C \leftarrow A \times B
+$$
+
+$$
 C = (a_1b_1,a_1b_2,a_1b_3,a_2b_1,a_2b_2,a_2b_3,a_3b_1,a_3b_2,a_3b_3)
 $$
 
@@ -143,7 +162,7 @@ $$
 \text{RESULT} \leftarrow  \pi_{(\text{Fname,Lname,Dependent_name})}(\text{E_DEPENDENTS})
 $$
 
-As tabelas geradas pelas operações são: 
+As tabelas geradas pelas operações são:
 
 | Fname    | Minit | Lname   | <u>ssn</u> | Bdate      | Address                 | Sex | Salary | Super_ssn  | Dino |
 | -------- | ----- | ------- | ---------- | ---------- | ----------------------- | --- | ------ | ---------- | ---- |
@@ -193,14 +212,13 @@ As tabelas geradas pelas operações são:
 
 **tabela: E_DEPENDENTS**
 
-| Fname    | Lname   |  Dependent_name |
-| -------- | ------- |  -------------- |
-| Jennifer | Wallace |  Abner          |
+| Fname    | Lname   | Dependent_name |
+| -------- | ------- | -------------- |
+| Jennifer | Wallace | Abner          |
 
- **tabela: RESULT** 
+**tabela: RESULT**
 
-
-## Join 
+## Join
 
 Uma das operações muito utilizadas em comando SQL é o `JOIN`. Essa operação pode ser entendia como um
 [produto cartesiano](#produto-cartesiano) seguido de um [`SELECT`](#select-algebra-relacional). Portanto
@@ -226,8 +244,6 @@ Por apenas uma equação:
 $$
 \text{E_DEPENDENTS} \leftarrow  \text{E_NAMES} \Join_{\text{Ssn}=\text{Essn}} \text{DEPENDENT}
 $$
-
-
 
 ## Tabelas
 
