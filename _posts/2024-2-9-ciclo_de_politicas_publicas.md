@@ -183,7 +183,10 @@ para que essa política produza os resultados almejados pela sociedade.
 #### Avaliação Diagnóstica ou Controle prévio (Avaliação EX ANTE)
 
 O controle prévio é realizado antes da implementação do projeto, para verificar a pertinência e viabilidade da política pública. O controle prévio busca reduzir erros de desenho e
-formulação de políticas públicas. Por ser realizado antes da implementação o o controle prévio também é chamado de **controle proativo**
+formulação de políticas públicas. Por ser realizado antes da implementação o o controle prévio também é chamado de **controle proativo**.
+
+> Segundo LASSANCE (repositório IPEA), a análise ex ante "embora certamente seja recomendada para iniciativas novas, na maioria das vezes a análise ex ante é ainda mais importante
+> e comum de ser feita para políticas e programas em andamento, muitos até com décadas de existência".
 
 #### Avaliação formativa ou Controle concomitante (Avaliação IN ITINERE)
 
