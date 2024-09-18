@@ -5,8 +5,8 @@ title: "Tolerando MySQL 5.6"
 categories: [Banco de Dados, Banco de dados relacional]
 tags: [Banco de Dados, MySQL, Tolerância a Fahas]
 image:
- path: /assets/img/logo-mysql.png
- alt: Tolerando MySQL
+  path: /assets/img/logo-mysql.png
+  alt: Tolerando MySQL
 ---
 
 # Tolerando MySQL 5.6
@@ -39,6 +39,7 @@ Para habilitar o logs binários configure o arquivo `my.cnf`
 log-bin=mysql-bin
 ```
 
+<!-- prettier-ignore -->
 > Lembrando que toda modificação no arquivo `my.cnf` necessita de reinicialização do processo mysqld.
 {: .prompt-warning}
 
@@ -74,6 +75,7 @@ No caso do banco de backup (**db_backup**), o `server-id=2`.
 server-id=2
 ```
 
+<!-- prettier-ignore -->
 > Lembrando que toda modificação no arquivo `my.cnf` necessita de reinicialização do processo mysqld.
 {: .prompt-warning}
 
@@ -108,9 +110,10 @@ Podemos fazer o processo de copia de duas maneiras, a primeira é a copia direta
 mysqldump --all-databases  -u <user> -p<password> > backup.sql
 ```
 
+<!-- prettier-ignore -->
 > **Lembrando** que esse comando deve ser executado com a sessão que bloqueia escritas ativa,
-  de modo que você garanta consistência dos dados pois assim o
-  banco não irá sofrer mutações durante o processo de backup.
+> de modo que você garanta consistência dos dados pois assim o
+> banco não irá sofrer mutações durante o processo de backup.
 {: .prompt-info}
 
 ### Configurando o banco secundário como replica

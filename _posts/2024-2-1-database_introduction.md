@@ -15,6 +15,7 @@ Banco de dados e suas tecnologias tiverem um grande impacto no crescimento da ut
 áreas como: rede sociais, engenharia, medicina, genética, educação e biblioteconomia. Um banco de dados é uma coleção de **dados** e por dados quero
 dizer fatos conhecidos que possuem significado e podem ser gravados.
 
+<!-- prettier-ignore -->
 > `banco de dados` é uma coleção de dados e dado é um **fato** conhecido que possui significado e pode ser gravado.
 {: .prompt-tip }
 
@@ -33,7 +34,6 @@ Buscando restringir o significado de banco dados foram criadas 3 propriedades:
 
 O que é um banco de dados ? Uma coleção logicamente coerente de fatos as quais sabemos os seus significados, construídos e desenhados para atender
 um interesse de um determinado grupo de pessoas ao mesmo tempo que busca refletir o que é real dentro do mini mundo.
-
 
 ## Referências
 

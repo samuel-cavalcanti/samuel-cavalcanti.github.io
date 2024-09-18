@@ -81,6 +81,7 @@ $$
 E \leftarrow \text{EMPLOYEE}
 $$
 
+<!-- prettier-ignore -->
 > Ao invés de renomear a tabela com o operação $\rho$ preferir utilizar a atribuição
 {: .prompt-info }
 
