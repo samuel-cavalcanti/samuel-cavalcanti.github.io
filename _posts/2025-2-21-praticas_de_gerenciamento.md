@@ -12,27 +12,27 @@ objetivo"
 
 Práticas são classificadas em três tipos:
 
-- Praticas de Gerenciamento Geral **(14 práticas)** 
-- Práticas de Gerenciamento de Serviço **(17 práticas)**  
-- Práticas de Gerenciamento técnico **(3 práticas)** 
+- Praticas de Gerenciamento Geral **(14 práticas)**
+- Práticas de Gerenciamento de Serviço **(17 práticas)**
+- Práticas de Gerenciamento técnico **(3 práticas)**
 
 | Praticas de Gerenciamento Geral              | Práticas de Gerenciamento de Serviço | Práticas de Gerenciamento de técnico             |
 | -------------------------------------------- | ------------------------------------ | ------------------------------------------------ |
-| 1. gerenciamento da Estratégia               | 1. Análise de Negócio                | 1. Desenvolvimento e Gerenciamento de Software   |
-| 2. gerenciamento de portfólio                | 2. Projeto de serviço                | 2. Gerenciamento de infraestrutura e Plataformas |
-| 3. gerenciamento de relacionamento           | 3. ger. de Catálogo de Serviço       | 3. Gerenciamento de implantação                  |
-| 4. gerenciamento de Fornecedores             | 4. ger. de Nível de Serviço          |                                                  |
-| 5. gerenciamento de Mudança Organizacional   | 5. ger. de capacidade e desempenho   |                                                  |
-| 6. gerenciamento de Projeto                  | 6. gerenciamento de Disponibilidade  |                                                  |
-| 7. gerenciamento de Financeiro               | 7. ger. de continuidade de Serviço   |                                                  |
-| 8. gerenciamento de Risco                    | 8. controle de Mudanças              |                                                  |
-| 9. gerenciamento de Conhecimento             | 9. gerenciamento de Ativos de TI     |                                                  |
-| 10. ger. de força de Trabalho e talentos     | 10. gerenciamento de Configuração    |                                                  |
-| 11. gerenciamento de arquitetura             | 11. gerenciamento de Liberações      |                                                  |
-| 12. gerenciamento de Segurança da informação | 12. monitoramento e Ger. de Eventos  |                                                  |
-| 12. gerenciamento de Medição e Relatórios    | 13. gerenciamento de Incidentes      |                                                  |
-| 14. gerenciamento de Melhoria contínua       | 14. gerenciamento de Problemas       |                                                  |
-|                                              | 15. ger. de Requisições de Serviço   |                                                  |
+| 1. Gerenciamento da Estratégia               | 1. Análise de Negócio                | 1. Desenvolvimento e Gerenciamento de Software   |
+| 2. Gerenciamento de portfólio                | 2. Projeto de serviço                | 2. Gerenciamento de infraestrutura e Plataformas |
+| 3. Gerenciamento de relacionamento           | 3. Ger. de Catálogo de Serviço       | 3. Gerenciamento de implantação                  |
+| 4. Gerenciamento de Fornecedores             | 4. Ger. de Nível de Serviço          |                                                  |
+| 5. Gerenciamento de Mudança Organizacional   | 5. Ger. de capacidade e desempenho   |                                                  |
+| 6. Gerenciamento de Projeto                  | 6. Gerenciamento de Disponibilidade  |                                                  |
+| 7. Gerenciamento de Financeiro               | 7. Ger. de continuidade de Serviço   |                                                  |
+| 8. Gerenciamento de Risco                    | 8. Controle de Mudanças              |                                                  |
+| 9. Gerenciamento de Conhecimento             | 9. Gerenciamento de Ativos de TI     |                                                  |
+| 10. Ger. de força de Trabalho e talentos     | 10. Gerenciamento de Configuração    |                                                  |
+| 11. Gerenciamento de arquitetura             | 11. Gerenciamento de Liberações      |                                                  |
+| 12. Gerenciamento de Segurança da informação | 12. Monitoramento e Ger. de Eventos  |                                                  |
+| 12. Gerenciamento de Medição e Relatórios    | 13. Gerenciamento de Incidentes      |                                                  |
+| 14. Gerenciamento de Melhoria contínua       | 14. Gerenciamento de Problemas       |                                                  |
+|                                              | 15. Ger. de Requisições de Serviço   |                                                  |
 |                                              | 16. Central de Serviços              |                                                  |
 |                                              | 17. Validação e Testes de Serviço    |                                                  |
 
