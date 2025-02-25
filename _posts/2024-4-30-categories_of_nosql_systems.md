@@ -7,8 +7,8 @@ tags: [Banco de Dados, NoSQL]
 
 # tipos de sistemas NoSQL
 
-Sistemas NoSQL podem ser divididos em quatro principais categorias: **sistema orientado a Documento** ,**sistema orientado a chave-valor**, **sistema orientado a coluna**,
-**sistema orientado a grafo**. 
+Sistemas NoSQL podem ser divididos em quatro principais categorias: **sistema orientado a Documento**, **sistema orientado a chave-valor**, **sistema orientado a coluna**,
+**sistema orientado a grafo**.
 
 ## Sistemas orientados a documentos
 
@@ -23,11 +23,11 @@ até estruturas mais complexas. Um dos banco de dados mais conhecidos nessa cate
 
 ## Sistemas orientados a coluna
 
-Sistemas orientados a coluna entendem uma tabela como uma familia de colunas, onde cada coluna possui o seu próprio arquivo de armazenamento. Estes sistemas também possuem
-versionamento dos dados. Banco de dados dessa categoria muito conhecido é o [Bigtable](https://cloud.google.com/bigtable)
+Sistemas orientados a coluna entendem uma tabela como uma familia de colunas, onde cada coluna possui o seu próprio arquivo de armazenamento. Eles são focados em armazenar
+dados analíticos onde as operações de leitura em massa são frequentes. Estes sistemas também possuem versionamento dos dados.
+Banco de dados dessa categoria muito conhecido é o [Bigtable](https://cloud.google.com/bigtable)
 
 ## Sistemas orientados a grafo
 
 Sistemas orientados a grafo são banco de dados cujo seus dados são representados em grafo, onde nós podem ser encontrados seguindo as arestas através de _path expressions_.
 [neo4j](https://neo4j.com/) é um dos banco de dados mais conhecidos desse segmento.
-
