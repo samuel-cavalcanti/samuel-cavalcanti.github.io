@@ -3,6 +3,7 @@ layout: post
 title: "Resumo Cadeia de Valor de Serviço ITIL 4"
 categories: [Governança de TI, ITIL v4]
 tags: [ITIL v4, ITIL, Governança de TI]
+mermaid: true
 ---
 
 ## Cadeia de Valor de Serviço (Service Value Chain)
